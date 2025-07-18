@@ -216,9 +216,3 @@ Fork, clone, and customize—whether you're building a demo, class project, or r
 - Maintain modularity: separate controllers, services, models, tests.
 - Keep security front and center: validation, auth, role checks.
 
----
-
-Let me know if you'd like help on specific sections (e.g. Dockerizing, mapping integration, or CI/CD pipelines)!
-::contentReference[oaicite:9]{index=9}
-```
-
